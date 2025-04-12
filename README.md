@@ -3,8 +3,8 @@ This is my beyLearning SQL Assignment
 Assignment Questions:
 
 ## Basic Analysis
- -- [How many unique countries are represented in the dataset?] (#How many unique countries are represented in the dataset?)
--- What is the average employment rate across all countries? 
+ - [How many unique countries are represented in the dataset?](#How many unique countries are represented in the dataset?)
+ - [What is the average employment rate across all countries?](#What is the average employment rate across all countries?)
 
 
 ## Social Media Trends 
